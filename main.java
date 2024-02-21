@@ -1,16 +1,6 @@
 import java.util.Scanner;
 class main
-{  public static int addition(int a,int b)
-   {
-    int x=a+b;
-    return x;
-   }
-
-        public static int multiplication(int div,int h)
-    {
-        int x=div*h;
-        return x;
-    }
+{
 
     public static int divsion(int add)
     {
