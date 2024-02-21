@@ -1,6 +1,10 @@
 import java.util.Scanner;
 class main
-{
+{  public static int addition(int a,int b)
+   {
+    int x=a+b;
+    return x;
+   }
     public static void  main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
