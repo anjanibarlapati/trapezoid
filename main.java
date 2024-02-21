@@ -1,6 +1,11 @@
 import java.util.Scanner;
 class main
 {
+    public static int divsion(int add)
+    {
+        int x=add/2;
+        return x;
+    }
     public static void  main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
