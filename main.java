@@ -1,6 +1,12 @@
 import java.util.Scanner;
 class main
 {
+    public static int multiplication(int div,int h)
+    {
+        int x=div*h;
+        return x;
+    }
+
     public static int divsion(int add)
     {
         int x=add/2;
